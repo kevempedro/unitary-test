@@ -1,0 +1,22 @@
+{
+  "name": "unity-test",
+  "version": "1.0.0",
+  "description": "It's a simple example",
+  "main": "main.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "author": "Kevem Pedro Pereira M M Lima",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "@types/node": "^12.7.4",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.6.2"
+  }
+}
