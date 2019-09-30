@@ -1,7 +1,7 @@
 {
   "name": "unity-test",
   "version": "1.0.0",
-  "description": "It's a simple example",
+  "description": "It's a simple example of some tests with jest",
   "main": "main.ts",
   "scripts": {
     "test": "jest"
